@@ -1,0 +1,86 @@
+body {
+background-image: url("images/fondo_03.jpg")
+
+}
+	
+#titulo1 {
+	text-align: center;
+	color: slategray;
+	font-family: Parchment ;
+	font-weight: bold;
+	font-size: 95pt;
+	text-shadow:
+	-1px -1px 0 black,
+	1px -1px 0 black,
+	-1px 1px 0 black,
+	1px 1px 0 black;
+}
+
+.t1{ 
+	text-align: center;
+	color: slategray;
+	font-family: Times New Roman ;
+	font-weight: bold;
+	font-size: 25pt;
+	text-shadow:
+	-1px -1px 0 black,
+	1px -1px 0 black,
+	-1px 1px 0 black,
+	1px 1px 0 black;
+
+}
+
+video {
+	width: 400px;
+	height: 300px;
+}
+
+div {
+	text-align: center;
+	
+}
+
+.button {
+	background-color: slategray;	
+	border: black;
+	position: absolute;
+	top: 10px;
+	right: 560px; 
+	color: black;
+	padding: 15px 32px;
+	text-align: center;
+	font-family: Times New Roman ;
+	text-decoration: none;
+	display: inline-block ;
+	font-size: 20px;
+	margin: 4px 2x;
+	cursor: pointer;
+	text-shadow:
+	-1px -1px 0 darkgray,
+	1px -1px 0 darkgray,
+	-1px 1px 0 darkgray,
+	1px 1px 0 darkgray;
+    
+}
+
+p {
+	font-family: serif;
+	font-size: 20pt;
+	text-align: center
+
+}
+
+#imagen01 {
+	position: absolute;
+	top: 35px;
+	right: 1030px;
+	width: 200px;
+	height: 150px;
+}
+
+#imagen02 {
+	position: absolute;
+	top: 35px;
+	right: 120px;
+	width: 200px;
+	height: 150px;
