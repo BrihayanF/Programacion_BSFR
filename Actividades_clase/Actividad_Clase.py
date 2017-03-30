@@ -1,12 +1,15 @@
+Ejercicio 1
 base=3.14**2
 altura=4
 volumen=base*altura
 print(volumen)
 
+Ejercicio 2
 cm3=1250.0
 litros=cm3/1000
 print(litros)
 
+Ejercicio 3
 mas=1
 edad=18
 pros=0
